@@ -1,5 +1,8 @@
+const cadena=prompt('Intriduce la cadena de caracteres');
 
 
+
+/*
 
 const cadena=prompt('Introduce cadena de texto');
 const largo=cadena.length;
