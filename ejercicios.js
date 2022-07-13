@@ -1,4 +1,5 @@
 
+Perfecto que lo es
 /* DETERMINAR SI ES PALINDROMO 
 
 const texto=prompt('Introduce la cadena de caracteres');
