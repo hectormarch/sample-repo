@@ -1,8 +1,24 @@
-const cadena=prompt('Intriduce la cadena de caracteres');
+
+/* DETERMINAR SI ES PALINDROMO 
+
+const texto=prompt('Introduce la cadena de caracteres');
+const cadena=texto.toUpperCase().replace(/ /g, "");
+let sumatoria=0;
+
+for (i=0; i<Math.floor(cadena.length/2); i++){
+if (cadena.charAt(i)===cadena.charAt(cadena.length-1-i)){
+sumatoria=sumatoria+1;
+}
+}
+if (sumatoria===Math.floor(cadena.length/2)){
+    document.write('El texto ingresado es un palíndomo');
+} else {
+    document.write('La cadena NO es un palíndromo');
+}
 
 
 
-/*
+/*DETERMINAR SI LAS LETRAS SON MAYUSCULAS O MINUSCULAS
 
 const cadena=prompt('Introduce cadena de texto');
 const largo=cadena.length;
